@@ -1,0 +1,474 @@
+.body{
+margin: 0;
+padding: 0;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background: ghostwhite;
+
+}
+html{
+    scroll-behavior: smooth;
+    scrollbar-arrow-color: aqua;
+}
+.nav{
+    width: 260px; 
+    height: 100vh;
+    background-color: black;
+    position:fixed;
+    top: 0px;
+    
+    
+}
+.bt{
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 130px;
+    margin-left: 50px;
+    font-size: 0.8rem;
+
+}
+
+
+.bt0{
+    color: white;
+    position: relative;
+    top: 120px;
+    margin-left: 78px;
+    font-size: 0.8rem;
+}
+.bt1:hover{
+    cursor: pointer;
+    background: orangered;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: relative;
+    top: 100px;
+    margin-left: 42px;
+    border:5px solid red ;
+    object-fit: cover;
+}
+
+.main{
+    position: relative;
+    top:-350px;
+    margin-left: 700px;
+    height: 100vh;
+    
+
+}
+.inf{
+    position: relative;
+    margin-left: -9px;
+}
+.user{
+    position: relative;
+    margin-left: 5px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+td{
+    position: relative;
+
+}
+.couleur{
+    color: rgb(240, 32, 32);
+    position: relative;
+    top: -38px;
+    margin-left:60px ;
+}
+button{
+background: rgb(204, 33, 33);
+color: white;
+font-size: 25px;
+border-radius: 15px;
+}
+button:hover{
+    cursor: pointer;
+    background: orange;
+}
+.bt1{
+    width: 150px;
+    color: white;
+}
+ button .but1:hover{
+    cursor: pointer;
+    background: orange;
+
+}
+.bto{
+    position: relative;
+    direction:rtl;
+    width: 60px;
+    margin-left: 130px;
+    border: transparent;
+    top: 130px;
+    width:40px ;
+
+}
+.bto1{
+    width: 60px;
+    background: rgb(80, 75, 75);
+    font-size: 1.5rem;
+    margin-left: -20px;
+    position: relative;
+
+}
+li{
+    text-decoration: none;
+    width: 4px;
+    height: 40px;
+    background: rgb(54, 53, 53);
+    height: 30px;
+    width: 130px;
+    display: block;
+    border-radius: 15px;
+    top: 3px;
+}
+a{
+    position: relative;
+    font-size: 1.2rem;
+    margin-left: 9px;
+    
+   
+   
+}
+button{
+    background: rgb(80, 75, 75);
+    
+}
+button:hover{
+    cursor: pointer;
+    background: orangered;
+}
+h5{
+    font-size: 2rem;
+}
+.section{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    margin-left: 300px;
+    top:200px;
+    height: 100hv;
+    
+}
+.apro{
+    position: relative;
+    top: -340px;
+    
+}
+
+
+h2{
+    position: relative;
+    margin-left: 400px;
+    font-size: 2rem;
+    top: 165px;
+    color: rgba(235, 97, 17, 0.925);
+}
+.box{
+    width: 180px;
+    height: 150px;
+    background: black;
+    position: relative;
+    top: 392px;
+    margin-left:840px ;
+}
+
+
+.box1{
+    width: 180px;
+    height: 150px;
+    background: black;
+    position: relative;
+    top: 222px;
+    margin-left:640px ;  
+}
+.box2{
+    
+        width: 180px;
+        height: 150px;
+        background: black;
+        position: relative;
+        top: 50px;
+        margin-left:440px ;  
+
+}
+.box3{
+    width: 180px;
+    height: 150px;
+    background: black;
+    position: relative;
+    top: 55px;
+    margin-left:440px ;  
+}
+
+.pbox{
+    color: orange;
+    position: relative;
+    margin-left: 50px;
+    font-size: 20px;
+    top: 40px;
+
+}
+.nom{
+    color: orange;
+    position: relative;
+    top: -42px;
+    margin-left: 69px;
+    
+}
+.nom1{
+    position:relative;
+    margin-left: 149px;
+    color: orange;
+    top:-42px
+}
+.nom2{
+    color: orange;
+    position: relative;
+    top:-44px;
+    margin-left: 85px;
+
+    
+
+}
+
+
+.moi{
+    position: relative;
+    margin-left: 10px;
+    top: 520px;
+    font-size: 12px;
+    height: 100px;
+
+}
+
+/* box formation */
+.for1box{
+    position: relative;
+    height: 200px;
+    width: 450px;
+    background: black;
+}
+.form{
+    height: 100vh;
+    width: 100%;
+}
+.for1box{
+    position: relative;
+    height: 600px;
+    width: 500px;
+    background: white;
+    border-radius: 15px;
+    filter: drop-shadow(10px 10px 10px black);
+}
+.for2box{
+    position: relative;
+    height: 600px;
+    width: 500px;
+    background: white;
+    margin-left: 30px;
+    border-radius: 15px;
+    filter: drop-shadow(10px 10px 10px black);
+}
+span{
+    color: red;
+    font-size: 50px;
+    color: rgba(235, 97, 17, 0.925); 
+    position: relative;
+    margin-left: 240px;
+}
+ td.spa{
+    position: relative;
+    margin-left: 60px;
+
+}
+.sp{
+    color: black;
+    position: relative;
+    margin-left: 2px;
+}
+
+.fb{
+    position:relative ;
+    display: flex;
+    justify-content: center;
+    margin:12px;
+    top: 15px;
+}
+/* les deux feuilles */
+.ligne{
+height: 95%;
+width: 5px;
+background: orangered;
+position: relative;
+margin-left: 30px;
+display: inline-block;
+top: 12px;
+border-radius: 2px;
+
+}
+.po1{
+    position: relative;
+    width: 17px;
+    height: 17px;
+    background: orangered;
+    border-radius: 50%;
+    margin-left: -6px;
+    top: 40px;
+    
+}
+.po2{
+    position: relative;
+    width: 17px;
+    height: 17px;
+    background: orangered;
+    border-radius: 50%;
+    margin-left: -6px;
+    top: 170px;
+    
+}
+.po3{
+    position: relative;
+    width: 17px;
+    height: 17px;
+    background: orangered;
+    border-radius: 50%;
+    margin-left: -6px;
+    top: 310px;
+    
+}
+.po4{
+    position: relative;
+    width: 17px;
+    height: 17px;
+    background: orangered;
+    border-radius: 50%;
+    margin-left: -6px;
+    top: 440px;
+    
+}
+/* potofolio */
+.grportofolio{
+    
+    width: 1024px;
+    position: relative;
+    top: 45vh;
+    height: 500px;
+    margin-left: 300px;
+}
+h3{
+    color:  rgba(235, 97, 17, 0.925);
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    margin-left: 370px;
+
+}
+.porbox1{
+    position: relative;
+    width: 400px;
+    height: 350px;
+    background: blue;
+    position: relative;
+    filter: drop-shadow(10px 10px 10px black);
+    border-radius: 12px;
+}
+.porbox2{
+    position: relative;
+    width: 400px;
+    height: 350px;
+    background: green;
+    position: relative;
+    top: -350px;
+    margin-left: 470px;
+    filter: drop-shadow(10px 10px 10px black);
+    border-radius: 12px;
+}
+.porbox3{
+    position: relative;
+    width: 400px;
+    height: 350px;
+    background: red;
+    position: relative;
+    top: -300px;
+    margin-left: 470px;
+    filter: drop-shadow(10px 10px 10px black);
+    border-radius: 12px;
+}
+.porbox4{
+    position: relative;
+    width: 400px;
+    height: 350px;
+    background: yellow;
+    position: relative;
+    top: -650px;
+    margin-left: 0px;
+    filter: drop-shadow(10px 10px 10px black);
+    border-radius: 12px;
+}
+.porbox5{
+    position: relative;
+    width: 400px;
+    height: 350px;
+    background: blueviolet;
+    position: relative;
+    top: -600px;
+    margin-left: 0px;
+    filter: drop-shadow(10px 10px 10px black);
+    border-radius: 12px;
+}
+.porbox6{
+    position: relative;
+    width: 400px;
+    height: 350px;
+    background: goldenrod;
+    position: relative;
+    top: -950px;
+    margin-left: 470px;
+    filter: drop-shadow(10px 10px 10px black);
+    border-radius: 12px;
+}
+/* ecrire dans le box de formation */
+.forboxp{
+    position: relative;
+    margin-left: 70px;
+}
+.date{
+    margin-left: 25px;
+    font-size: 20px;
+    top: 15px;
+}
+.rempp{
+    position: relative;
+    margin-left: 90px;
+    top: -32px;
+}
+.remp{
+    position: relative;
+    top: -560px;
+    margin-left: 25px;
+}
+.remp1{
+    position: relative;
+    top: -548px;
+    margin-left: 25px;
+}
+.remp2{
+    position: relative;
+    top: -524px;
+    margin-left: 25px;
+}
+.remp3{
+    position: relative;
+    top: -510px;
+    margin-left: 25px;
+}
+/* essai de transition */
